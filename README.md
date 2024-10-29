@@ -1,0 +1,1 @@
+# devops-qoala-assignment-AmalThomas-22dec007
