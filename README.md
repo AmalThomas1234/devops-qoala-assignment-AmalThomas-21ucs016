@@ -6,11 +6,11 @@ This repository is submission for the devops assignment at qoala This readme con
 ### In docker-compose.yaml 
 1. In docker-compose.yaml the ports were not correctly defined for nginx and python app ( they were changed to 80:80 and 8000 respectively  )
 2. In nginx-networks driver was not correctly defined 
-3. file extension .confi was changed to .conf in nginx volume 
-4. image names and tags were set according to the published images 
+3. File extension .confi was changed to .conf in nginx volume 
+4. Image names and tags were set according to the published images 
 
 ### In nginx folder 
-1. html file for the nginx was not created 
+1. HTML file for the nginx was not created 
 2. Dockerfile was having incorrect port and volumes 
 
 ### In python folder 
