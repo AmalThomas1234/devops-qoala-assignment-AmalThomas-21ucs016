@@ -17,7 +17,9 @@ This repository is submission for the devops assignment at qoala This readme con
 1. Port was incorrect in the dockerfile 
 2. CMD command was incorrect 
 
-##SCREENSHOTS:
+## SCREENSHOTS:
+
+### Python application running at localhost 
 
 ![WhatsApp Image 2024-10-30 at 1 05 57 AM](https://github.com/user-attachments/assets/20a0c54e-fb29-4275-bdf4-1e4534ac556a)
 
