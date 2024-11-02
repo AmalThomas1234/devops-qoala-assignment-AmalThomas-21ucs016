@@ -44,6 +44,7 @@ After resolving these issues the application code can be run at `localhost` usin
 
 ## Cloud deployment 
 The application is hosted at IP endpoint `http://35.226.3.94/` the application is deployed using google cloud platform
+[Visit the application here](http://35.226.3.94/)
 
 
 ## SCREENSHOTS:
