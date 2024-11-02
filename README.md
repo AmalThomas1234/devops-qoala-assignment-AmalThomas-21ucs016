@@ -39,6 +39,12 @@ After resolving these issues the application code can be run at `localhost` usin
 - Start containers and verify application accessibility on port 80.
 - Upload files to a new GitHub repository and grant access to `devops@qoala.id`.
 - Submit screenshots and a concise report of issues and solutions.
+- Deploy on a cloud provider and share endpoint details.
+
+
+## Cloud deployment 
+The application is hosted at IP endpoint `http://35.226.3.94/` the application is deployed using google cloud platform
+
 
 ## SCREENSHOTS:
 
@@ -48,5 +54,11 @@ After resolving these issues the application code can be run at `localhost` usin
 
 ## NGINX Server logs
 ![WhatsApp Image 2024-11-01 at 16 10 28_4e649b94](https://github.com/user-attachments/assets/b0e73bf0-ca2c-4436-a412-a4f0f622aa85)
+
+## GCP Logs 
+![image](https://github.com/user-attachments/assets/a44346af-c024-4fa3-8a40-699d1f4b3a3e)
+
+
+
 
 
