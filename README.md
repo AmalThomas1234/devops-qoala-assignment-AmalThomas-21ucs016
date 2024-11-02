@@ -13,7 +13,7 @@ The main issues were in the docker-compose and the dockerfile
 4. Typo in the network driver: bridg should be `bridge`.
 5. Typo in the network option key: `compelex_option` should be `complex_option`.
 
-## In python directory 
+### In python directory 
 1. `WORKDIR /appp` should be `WORKDIR /app`
 2. `COPY appy.py /app` should be `COPY app.py /app`, assuming the file is actually named `app.py`
 3. RUN pip install flask netiface should be `RUN pip install flask netifaces` (the correct package name is netifaces).
